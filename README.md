@@ -2,7 +2,7 @@
 
 This project demonstrates async usage of SQLAlchemy 1.4 with FastAPI.
 
-Read the article: []().
+Read the article: [Async SQLAlchemy with FastAPI](https://stribny.name/blog/fastapi-asyncalchemy/).
 
 ## Installation
 
